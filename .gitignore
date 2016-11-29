@@ -1,3 +1,4 @@
+/logs/app.log
 # swap
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -29,5 +30,4 @@ test/rails/tmp
 /.ruby-version
 Contact GitHub API Training Shop Blog About
 
-/logs/app.log
 
