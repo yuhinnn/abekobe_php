@@ -29,3 +29,5 @@ test/rails/tmp
 /.ruby-version
 Contact GitHub API Training Shop Blog About
 
+logs/app.log
+
