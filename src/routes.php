@@ -10,5 +10,6 @@ $app->get('/[{name}]', function ($request, $response, $args) {
 });
 
 $app->get('/about', function () {
-
+$about = new \Controller\About();
+$about->action_show();
 });
